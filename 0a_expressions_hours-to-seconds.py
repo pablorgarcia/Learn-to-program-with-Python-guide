@@ -1,4 +1,3 @@
-
 # Prints the number of seconds in 7 hours, 21 minutes and 37 seconds.
 
 # Hours, minutes, and seconds to seconds conversion formula

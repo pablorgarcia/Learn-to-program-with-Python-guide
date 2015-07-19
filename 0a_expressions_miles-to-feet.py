@@ -1,4 +1,3 @@
-
 # Compute the number of feet corresponding to a number of miles.
 
 # Miles to feet conversion formula
