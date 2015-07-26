@@ -1,4 +1,7 @@
-# Prints the value of 1000 dollars compounded at 7 percent interest for 10 years.
+"""
+Prints the value of 1000 dollars compounded
+at 7 percent interest for 10 years.
+"""
 
 # Future value formula
 dollars = 1000

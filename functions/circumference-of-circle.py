@@ -1,4 +1,7 @@
-# Compute the circumference of a circle, given the length of its radius.
+"""
+Compute the circumference of a circle,
+given the length of its radius.
+"""
 
 # Circle circumference formula
 import math

@@ -1,7 +1,9 @@
-# Write a function name_and_age that takes as input the parameters name (a string)
-# and age (a number) and returns a string of the form "% is % years old."
-# Where the percents are the string forms of name and age.
-
+"""
+Write a function name_and_age that takes
+as input the parameters name (a string) and age (a number)
+and returns a string of the form "% is % years old."
+Where the percents are the string forms of name and age.
+"""
 
 # Name and age formula
 def name_and_age(name, age):

@@ -1,4 +1,7 @@
-# Compute the area of a triangle (using Heron's formula), given its side lengths.
+"""
+Compute the area of a triangle (using Heron's formula),
+given its side lengths.
+"""
 
 # Triangle area (Heron's) formula
 # Hint:  Also define point_distance as use it as a helper function.

@@ -1,5 +1,7 @@
-# Write a function miles_to_feet that takes a parameter miles
-# and returns the number of feet in miles miles
+"""
+Write a function miles_to_feet that takes a parameter miles
+and returns the number of feet in miles miles.
+"""
 
 # Miles to feet conversion formula
 def miles_to_feet(miles):

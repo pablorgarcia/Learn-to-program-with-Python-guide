@@ -1,6 +1,8 @@
-# Write a function rectangle_area that takes two parameters width and height
-# corresponding to the lengths of the sides of a rectangle
-# and returns the area of the rectangle in square inches
+"""
+Write a function rectangle_area that takes two parameters width and height
+corresponding to the lengths of the sides of a rectangle
+and returns the area of the rectangle in square inches
+"""
 
 # Rectangle area formula
 def rectangle_area(width, height):

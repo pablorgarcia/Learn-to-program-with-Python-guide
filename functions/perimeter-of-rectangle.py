@@ -1,4 +1,7 @@
-# Compute the length of a rectangle's perimeter, given its width and height.
+"""
+Compute the length of a rectangle's perimeter,
+given its width and height.
+"""
 
 # Rectangle perimeter formula
 def rectangle_perimeter(width, height):

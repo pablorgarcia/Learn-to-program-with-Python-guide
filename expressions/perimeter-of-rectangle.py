@@ -1,5 +1,7 @@
-# Prints the length in inches of the perimeter of a rectangle
-# with sides of length 4 and 7 inches
+"""
+Prints the length in inches of the perimeter of a rectangle
+with sides of length 4 and 7 inches.
+"""
 
 # Rectangle perimeter formula
 length = 4

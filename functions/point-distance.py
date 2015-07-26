@@ -1,5 +1,9 @@
-# Write a function point_distance that takes as the parameters x0, y0, x1 and y1
-# and returns the distance between the points (x0,y0) and (x1,y1)
+"""
+Write a function point_distance that takes
+as the parameters x0, y0, x1 and y1
+and returns the distance between the points
+(x0,y0) and (x1,y1)
+"""
 
 # Distance formula
 def point_distance(x0, y0, x1, y1):

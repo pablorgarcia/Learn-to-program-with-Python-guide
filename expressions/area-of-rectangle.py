@@ -1,5 +1,7 @@
-# Print the area in square inches of a rectangle
-# with sides of length 4 and 7 inches
+"""
+Print the area in square inches of a rectangle
+with sides of length 4 and 7 inches
+"""
 
 # Rectangle area formula
 length = 4

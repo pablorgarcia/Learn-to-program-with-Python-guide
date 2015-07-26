@@ -1,7 +1,9 @@
-# Write a function future_value that takes three parameters
-# present_value, annual_rate and years
-# and returns the future value of present_value dollars invested
-# at annual_rate percent interest, compounded annually for years years
+"""
+Write a function future_value that takes three parameters
+present_value, annual_rate and years
+and returns the future value of present_value dollars invested
+at annual_rate percent interest, compounded annually for years years.
+"""
 
 # Future value formula
 def future_value(present_value, annual_rate, years):

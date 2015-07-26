@@ -1,5 +1,7 @@
-# Print the area in square inches of a circle whose radius is 8 inches
-# Assume that the constant π=3.14
+"""
+Print the area in square inches of a circle whose radius
+is 8 inches. Assume that the constant π=3.14
+"""
 
 # Circle area formula
 pi = 3.14

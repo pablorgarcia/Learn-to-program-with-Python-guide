@@ -1,5 +1,9 @@
-# Write a function total_seconds that takes three parameters hours, minutes and seconds
-# and returns the total number of seconds for hours hours, minutes minutes and seconds seconds
+"""
+Write a function total_seconds that takes three parameters hours,
+minutes and seconds
+and returns the total number of seconds for hours hours,
+minutes minutes and seconds seconds
+"""
 
 # Hours, minutes, and seconds to seconds conversion formula
 def total_seconds(hours, minutes, seconds):
