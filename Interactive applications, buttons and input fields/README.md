@@ -1,5 +1,5 @@
 # Interactive applications, buttons and input fields.
-## Event handlers, local variables, global variables, SimpleGui module, buttons, input fields.
+Event handlers, local variables, global variables, SimpleGui module, buttons, input fields.
 
 Event handlers — Event-driven programming
 -------
