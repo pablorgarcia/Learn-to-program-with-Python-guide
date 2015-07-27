@@ -1,5 +1,5 @@
 # Welcome to 'Learn to program with Python guide'
-## Python is an easy to learn programming language. You can use it to create web apps, games, even a search engine!
+Python is an easy to learn programming language. You can use it to create web apps, games, even a search engine!
 
 *These are the notes that are worth reading*
 
