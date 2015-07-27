@@ -1,5 +1,5 @@
 # Functions, logic and conditionals
-## Functions, indentation, remainders, modules, Boolean expressions, relational operators, conditional statements.
+Functions, indentation, remainders, modules, Boolean expressions, relational operators, conditional statements.
 
 Functions
 -------
