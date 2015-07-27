@@ -1,5 +1,5 @@
 # Expressions, variables and assignments
-## Comments, strings, numbers, arithmetic operators, arithmetic expressions, variables.
+Comments, strings, numbers, arithmetic operators, arithmetic expressions, variables.
 
 Comments
 -------
