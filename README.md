@@ -1,7 +1,5 @@
 # Welcome to 'Learn to program with Python guide'
-Python is an easy to learn programming language. You can use it to create web apps, games, even a search engine!
-
-*These are the notes that are worth reading*
+Python is an easy to learn programming language used for create web apps, games, even a search engine!
 
 **Ready to learn Python?**
 
@@ -60,3 +58,29 @@ Bonus Stage - Symbols
 - String escape sequences
 - String formats
 - Operators
+
+Bonus Stage - Types & Operations
+-------
+- Null Object
+- Integers & Floating-Point Numbers
+- Booleans
+- Strings
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Functions & Methods
+- Generators
+- File Objects
+- Enumerations
+- Iterators
+- Sequences
+- Iterables
+- Objects
+
+
+
+
+
+
+
