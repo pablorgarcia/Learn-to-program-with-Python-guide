@@ -1,6 +1,9 @@
 # Welcome to 'Learn to program with Python guide'
 Python is an easy to learn programming language used for create web apps, games, even a search engine!
 
+*Stars and Forks are welcome :)*
+![jpg](images4readme/logo-python.jpg)
+
 **Ready to learn Python?**
 
 01 - Expressions, variables and assignments
@@ -80,7 +83,5 @@ Bonus Stage - Types & Operations
 
 
 
-
-
-
-
+*Thanks for reading it! I hope be helpful.*
+![png](images4readme/logo-monty-python.png)
