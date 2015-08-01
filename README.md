@@ -1,4 +1,4 @@
-# Welcome to 'Learn to program with Python guide'
+# Welcome to 'Learn to program with Python 2.7 guide'
 
 *Stars, Forks and Pull Requests are welcome :)*
 
