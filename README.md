@@ -1,9 +1,12 @@
 # Welcome to 'Learn to program with Python guide'
-Python is an easy to learn programming language used for create web apps, games, even a search engine!
 
-**Ready to learn Python?** *Stars and Forks are welcome :)*
+*Stars, Forks and Pull Requests are welcome :)*
 
 ![jpg](images4readme/logo-python.jpg)
+
+**Ready to learn Python?**
+
+Python is an easy to learn programming language used for create web apps, games, even a search engine!
 
 01 - Expressions, variables and assignments
 -------
