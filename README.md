@@ -2,7 +2,6 @@
 
 *Stars, Forks and Pull Requests are welcome :)*
 
-*Stars and Forks are welcome :)*
 ![png](images4readme/logo-python.png)
 
 **Ready to learn Python?**
