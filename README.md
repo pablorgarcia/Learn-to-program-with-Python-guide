@@ -2,7 +2,8 @@
 
 *Stars, Forks and Pull Requests are welcome :)*
 
-![jpg](images4readme/logo-python.jpg)
+*Stars and Forks are welcome :)*
+![png](images4readme/logo-python.png)
 
 **Ready to learn Python?**
 
@@ -38,7 +39,15 @@ Python is an easy to learn programming language used for create web apps, games,
 - Input fields — Input fields
 - Programming Tips
 
-04 - Soon as possible
+04 - Drawing canvas, timers
+-------
+- Canvas — Canvas and drawing
+- Event-driven drawing — Canvas and drawing
+- String operations — String processing
+- Drawing text — Interactive drawing
+- Timers — Timers
+
+05 - Soon as possible
 -------
 
 Bonus Stage - Understanding errors
@@ -82,7 +91,6 @@ Bonus Stage - Types & Operations
 - Sequences
 - Iterables
 - Objects
-
 
 ![png](images4readme/logo-monty-python.png)
 
