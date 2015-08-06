@@ -23,8 +23,9 @@ def decr_button_handler():
 def change_circle_handler():
     """Change the circle radius."""
     global radius
-    radius = size
-    # Insert code to make radius label change.
+    if size > 0:
+        radius = size
+        radiuslabel.set_text('Radius: ' + srt(size))
     
 def draw_handler(canvas):
     """Draw the circle."""
@@ -36,7 +37,7 @@ frame = simplegui.create_frame('Home', 200, 200)
 label = frame.add_label('Value: ' + str(size))
 frame.add_button('Increase', incr_button_handler)
 frame.add_button('Decrease', decr_button_handler)
-frame.add_label('Radius: ' + str(radius))
+radiuslabel = frame.add_label('Radius: ' + str(radius))
 frame.add_button('Change circle', change_circle_handler)
 frame.set_draw_handler(draw_handler)
 
