@@ -1,5 +1,5 @@
 # Drawing canvas, timers
-## Canvas, event-driven drawing, drawing text, timers.
+Canvas, event-driven drawing, drawing text, timers.
 
 Canvas — Canvas and drawing
 -------
