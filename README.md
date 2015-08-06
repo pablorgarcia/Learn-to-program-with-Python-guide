@@ -1,12 +1,10 @@
-# Welcome to 'Learn to program with Python 2.7 guide'
+# Welcome to 'Learn to program with Python guide'
+Python is an easy to learn programming language used for create web apps, games, even a search engine!
 
-*Stars, Forks and Pull Requests are welcome :)*
-
-![png](images4readme/logo-python.png)
+*Stars and Forks are welcome :)*
+![png](python-logo.jpg)
 
 **Ready to learn Python?**
-
-Python is an easy to learn programming language used for create web apps, games, even a search engine!
 
 01 - Expressions, variables and assignments
 -------
@@ -91,6 +89,7 @@ Bonus Stage - Types & Operations
 - Iterables
 - Objects
 
-![png](images4readme/logo-monty-python.png)
 
-*Thanks for reading it! I hope be helpful.*
+
+*Thanks! I hope be helpful.*
+![png](monty-python-logo.png)
