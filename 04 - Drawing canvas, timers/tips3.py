@@ -28,8 +28,5 @@ def timer1_handler():
 def timer2_handler():
     print '2'
 
-timer1 = simplegui.create_timer(100, timer1_handler)
-timer2 = simplegui.create_timer(300, timer2_handler)
-
-timer1.start()
-timer2.start()
+simplegui.create_timer(100, timer1_handler)
+simplegui.create_timer(300, timer2_handler)
