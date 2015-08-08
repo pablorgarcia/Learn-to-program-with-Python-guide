@@ -2,6 +2,7 @@
 Python is an easy to learn programming language used for create web apps, games, even a search engine!
 
 *Stars and Forks are welcome :)*
+
 ![png](images4readme/python-logo.png)
 
 **Ready to learn Python?**
