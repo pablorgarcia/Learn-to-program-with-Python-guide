@@ -90,7 +90,6 @@ Bonus Stage - Types & Operations
 - Iterables
 - Objects
 
-
+![png](images4readme/logo-monty-python.png)
 
 *Thanks! I hope be helpful.*
-![png](images4readme/logo-monty-python.png)
