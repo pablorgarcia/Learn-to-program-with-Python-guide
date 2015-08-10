@@ -1,14 +1,14 @@
-# Welcome to 'Learn to program with Python guide'
+= Welcome to 'Learn to program with Python guide' =
+-------
 Python is an easy to learn programming language used for create web apps, games, even a search engine!
 
 *Stars and Forks are welcome :)*
-
-![png](images4readme/logo-python.png)
+![png](python-logo.jpg)
 
 **Ready to learn Python?**
 
-01 - Expressions, variables and assignments
--------
+== 01 - Expressions, variables and assignments ==
+
 - Comments
 - Strings
 - Numbers — Arithmetic Expressions
@@ -16,8 +16,8 @@ Python is an easy to learn programming language used for create web apps, games,
 - Arithmetic Expressions — Arithmetic Expressions
 - Variables — Variables
 
-02 - Functions, logic and conditionals
--------
+== 02 - Functions, logic and conditionals ==
+
 - Functions — Functions
 - Indentation — Functions
 - Remainders and modular arithmetic — More Operations
@@ -27,8 +27,8 @@ Python is an easy to learn programming language used for create web apps, games,
 - Conditional Statements — Conditionals
 - Programming Tips
 
-03 - Interactive applications, buttons and input fields
--------
+== 03 - Interactive applications, buttons and input fields ==
+
 - Event handlers — Event-driven programming
 - Local variables — Local vs. global variables
 - Global variables — Local vs. global variables
@@ -37,19 +37,30 @@ Python is an easy to learn programming language used for create web apps, games,
 - Input fields — Input fields
 - Programming Tips
 
-04 - Drawing canvas, timers
--------
+== 04 - Drawing canvas, timers ==
+
 - Canvas — Canvas and drawing
 - Event-driven drawing — Canvas and drawing
 - String operations — String processing
 - Drawing text — Interactive drawing
 - Timers — Timers
 
-05 - Soon as possible
--------
+== 05 - Basics of lists, keyboard control ==
 
-Bonus Stage - Understanding errors
--------
+- Lists — Lists
+- Points and vectors — Motion
+- Distance computations — Collisions and reflections
+- Reflections — Collisions and reflections
+- Keyboard events — Keyboard input
+- Positional control — Keyboard input
+- Velocity control — Velocity control
+- Mutable vs. immutable data — Programming tips #4
+
+== 06 - Soon as possible ==
+
+
+== Bonus Stage - Understanding errors ==
+
 - SyntaxError
 - NameError
 - TypeError
@@ -60,8 +71,8 @@ Bonus Stage - Understanding errors
 - IndentationError
 - Miscellaneous section
 
-Bonus Stage - Symbols
--------
+== Bonus Stage - Symbols ==
+
 - Some rules
 - Keywords
 - Exit types
@@ -71,8 +82,8 @@ Bonus Stage - Symbols
 - String formats
 - Operators
 
-Bonus Stage - Types & Operations
--------
+== Bonus Stage - Types & Operations ==
+
 - Null Object
 - Integers & Floating-Point Numbers
 - Booleans
@@ -90,6 +101,7 @@ Bonus Stage - Types & Operations
 - Iterables
 - Objects
 
-![png](images4readme/logo-monty-python.png)
+
 
 *Thanks! I hope be helpful.*
+![png](monty-python-logo.png)
